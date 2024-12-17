@@ -1,5 +1,5 @@
 if __name__ == 'main':
-    #printing 10 first even numbers
-    for number in range(11):
+    #printing 30 first even numbers
+    for number in range(31):
         if number%2 == 0:
             print("Number is: ", number) 
