@@ -1,1 +1,7 @@
+
+#ignoring a single file
 /my_credentials.py
+
+
+#ignoring an entire directory
+importantdocs/
