@@ -5,3 +5,7 @@
 
 #ignoring an entire directory
 importantdocs/
+
+#ignoring file types on a given folder
+bunchofdocs/*txt
+
